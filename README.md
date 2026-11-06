@@ -14,7 +14,7 @@ A React Native (Expo) mobile app that lets a restaurant chef add, edit, delete, 
 - Menu statistics: total number of items, average price, and number of items per course
 - Required-field validation with clear error messages
 - Success messages for adding, updating and deleting a dish
-- Editable owner name (three-line menu icon, top right), so the title shows e.g. "Olivia's Menu"
+- Editable owner name (three-line menu icon, top right), so the title shows e.g. "Asukia's Menu"
 - Helpful message when no items are found
 
 ## Tech Stack
